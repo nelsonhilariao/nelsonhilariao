@@ -14,9 +14,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nelson-Selenium" height="30" width="40" src="https://img.icons8.com/stickers/344/selenium-test-automation.png">
+  <img align="center" alt="Nelson-Cucumber" height="30" width="40" src="https://rubenjgarcia.cloud/wp-content/uploads/2018/04/cucumber.png">
+  <img align="center" alt="Nelson-Appium" height="30" width="40" src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png">
 <!--   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
-  
   ##
  
 <div> 
